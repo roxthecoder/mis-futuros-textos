@@ -4,8 +4,11 @@ Mis futuros textos es un script creado para PowerShell que te permite crear un d
 También puedes seguirnos en nuestras diferentes redes sociales:
  
 YouTube: https://www.youtube.com/c/reillyversecorp?sub_confirmation=1 
+
 Twitter: https://twitter.com/guardian_celta
+
 Instagram: https://www.instagram.com/richardreillyotaku/ 
+
 Github: https://github.com/roxthecoder
 
 Y en nuestro podcast en las diferentes plataformas de podcasting:
